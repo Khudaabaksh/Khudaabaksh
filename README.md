@@ -13,7 +13,7 @@ My name is **Mohd Hammad Khan**. I am pursuing **Master in Data Science** from *
    <img src="https://mpng.subpng.com/20180824/ktx/kisspng-mysql-workbench-computer-icons-logo-portable-netwo-thezedt-tech-tips-and-random-thoughts-5b80352110ca84.1955496015351288650688.jpg" alt="react" width="auto" height="40"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="angular" width="40" height="40"/>
 </p>
-## &#x1f4c8; GitHub Stats
+ &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Khudaabaksh/Khudaabaksh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khudaabaksh&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
